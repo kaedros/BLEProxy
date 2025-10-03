@@ -1,5 +1,5 @@
 #
-# Proposito: Escanear e exibir detalhes de dispositivos Bluetooth Low Energy (BLE)
+# Escanear e exibir detalhes de dispositivos Bluetooth Low Energy (BLE)
 # nas proximidades usando a biblioteca Bleak.
 #
 # Funcionalidades:
